@@ -5,7 +5,7 @@
 /.env.local.php
 /.env.*.local
 /config/secrets/prod/prod.decrypt.private.php
-/config/firebase-credential.json
+/config/firebase-credentials.json
 /public/bundles/
 /var/
 /vendor/
